@@ -1,4 +1,4 @@
-#This line of code defines a function calles "squared"
+#This line of code defines a function called "squared"
 #Squared function takes the square of the input provided
 def squared(x):
     y=x*x
