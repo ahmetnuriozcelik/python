@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Ahmet Nuri Ozcelik
 
-You can use the [editor on GitHub](https://github.com/ahmetnuriozcelik/python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a data driven product manager and I am very passionate about Data Science and Machine learning.
+Here, I will be sharing my Python learning journey with, giving you examples of the projects I have worked on and codes I have written.   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can access my  [linkedin profile](https://www.linkedin.com/in/ahmetnuriozcelik/) to learn more about my background.
+
 
 ### Markdown
 
