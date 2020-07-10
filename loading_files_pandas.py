@@ -1,8 +1,8 @@
 # Use pandas method "read_csv" to read csv files
 import pandas as pd
 csv_path='owid-covid-data.csv'
-file11=pd.read_csv(csv_path)
-print(file11.head())
+file1=pd.read_csv(csv_path)
+print(file1.head())
 
 # Use pandas method "read_excel" to read csv files
 import pandas as pd
@@ -20,3 +20,8 @@ songs={
 import pandas as pd
 file3=pd.DataFrame(songs)
 print(file3)
+
+#Subsetting the dataframes - Single column
+print("This is a subset of Covid Data file ")
+file1_subset=file1[["location","new_cases"]]
+print(file1_subset.head())
