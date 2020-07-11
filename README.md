@@ -6,34 +6,12 @@ Here, I will be sharing my Python learning journey with, giving you examples of 
 You can access my  [linkedin profile](https://www.linkedin.com/in/ahmetnuriozcelik/) to learn more about my background.
 
 
-### Markdown
+### Example codes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have uploaded the codes I have written in [Atom](https://atom.io/) text editor.
+The names of the files are self explanatory. I have also added the files some codes use.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahmetnuriozcelik/python/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Id you would like to connect, add to on [linkedin](https://www.linkedin.com/in/ahmetnuriozcelik/) or send me an [email](mailto:ahmetnuri.ozcelik@outlook.com).
